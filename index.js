@@ -29,6 +29,7 @@ client.on("messageCreate", (message) => {
     "pp",
     "heck",
     "acoustic",
+    "ass"
   );
 
   const contentLower = message.content.toLowerCase();
